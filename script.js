@@ -1,4 +1,4 @@
-// Autor: Victor Alan 28.08.2024
+// Autor: Victor Alan 2C 28.08.2024
 const avanca = document.querySelectorAll('.btn-proximo');
 avanca.forEach(button => {
     button.addEventListener('click', function(){
